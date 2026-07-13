@@ -2,7 +2,8 @@
   {
     "identification": {
       "msg": "The Emulator CDN Works!",
-      "id": "emu"
+      "id": "emu",
+      "extension": ".html"
     },
     "cdn": {
       "folder": "cdn-data",
