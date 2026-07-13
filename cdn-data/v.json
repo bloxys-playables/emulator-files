@@ -14,6 +14,10 @@
       "list": "order",
       "identifier": "id",
       "group": "type"
+    },
+    "extra": {
+      "type": "txt",
+      "list": "list.txt",
     }
   }
 ]
